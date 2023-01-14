@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/418241a0-23b7-4e2e-87ef-226c4a774feb/deploy-status)](https://app.netlify.com/sites/burgerbuilder14/deploys)
 
-Burger Builder is an App that let you build your own choice of burger then fill a form of your address details to deliver this burger to you
+Burger Builder is an App that allows you to build your own choice of burger then fill a form of your address details to deliver this burger to you
 
 ![Screenshot](preview.png) 
 
@@ -78,11 +78,11 @@ https://user-images.githubusercontent.com/69651552/212470104-533abb08-94bf-417c-
 
 - You can consider this Repo as a reference and a strong practical & revision to understand the working logic of `react`, `redux`, `react-redux` & middlwares like `redux-thunk` & `redux-saga` and how they interact with a react App. As this Repo contains 4 separate folders for the same project but each project covers one of the following: [react, hooks, redux & redux-saga]
 
-- Folders are:-
-### [React](react_burger_builder)    
-### [React Hooks](hooks_burger_builder)
-### [Redux](redux_burger_builder)
-### [Redux Saga](redux_saga_burger_builder)
+- Repo folders are:-
+#### [React](react_burger_builder)    
+#### [React Hooks](hooks_burger_builder)
+#### [Redux](redux_burger_builder)
+#### [Redux Saga](redux_saga_burger_builder)
 
 ## License
 

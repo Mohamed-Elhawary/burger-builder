@@ -1,0 +1,19 @@
+.Order {
+    width: 98%;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    padding: 10px;
+    margin: 10px auto;
+    box-sizing: border-box;
+}
+
+.Ingredient {
+    border: 1px solid #ccc;
+    display: inline-block;
+    box-shadow: 0 2px 3px #eee;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 0 5px;
+    background: #ccc;
+    color: brown;
+}

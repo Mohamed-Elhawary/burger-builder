@@ -25,6 +25,10 @@ https://user-images.githubusercontent.com/69651552/212470104-533abb08-94bf-417c-
         ```
         npm start
         ```
+        * to build the App in production mode.
+        ```
+        npm build
+        ```
 
     - 5- Once the app server is running visit (localhost:3000) in the browser to view the app and now you can treat with it as shown above in the Demo.
 

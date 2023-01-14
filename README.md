@@ -79,10 +79,10 @@ https://user-images.githubusercontent.com/69651552/212470104-533abb08-94bf-417c-
 - You can consider this Repo as a reference and a strong practical & revision to understand the working logic of `react`, `redux`, `react-redux` & middlwares like `redux-thunk` & `redux-saga` and how they interact with a react App. As this Repo contains 4 separate folders for the same project but each project covers one of the following: [react, hooks, redux & redux-saga]
 
 - Folders are:-
-[React](react_burger_builder)    
-[React Hooks](hooks_burger_builder)
-[Redux](redux_burger_builder)
-[Redux Saga](redux_saga_burger_builder)
+### [React](react_burger_builder)    
+### [React Hooks](hooks_burger_builder)
+### [Redux](redux_burger_builder)
+### [Redux Saga](redux_saga_burger_builder)
 
 ## License
 

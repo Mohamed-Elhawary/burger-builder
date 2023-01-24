@@ -10,7 +10,7 @@ Burger Builder is an App that allows you to build your own choice of burger then
 
 https://user-images.githubusercontent.com/69651552/212470104-533abb08-94bf-417c-805b-566eacb5cd40.mp4
 
-## Instructions, Building & Getting Started  
+## Instructions, Building & Get Started
     - 1- Fork, clone or download this repository to your local machine.
     - 2- Navigate to the specific App folder you need to test. [e.g: hooks_burger_builder]
     - 2- Be sure that you install the [Node.js](https://nodejs.org/en/) environment in your machine.

@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/418241a0-23b7-4e2e-87ef-226c4a774feb/deploy-status)](https://app.netlify.com/sites/burgerbuilder14/deploys)
 
-Burger Builder is an App that allows you to build your own choice of burger then fill a form of your address details to deliver this burger to you
+Burger Builder is an App that allows you to build your own choice of burger then fill a form of your address details to deliver this burger to you.
 
 ![Screenshot](preview.png) 
 

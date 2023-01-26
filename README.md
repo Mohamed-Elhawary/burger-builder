@@ -83,6 +83,10 @@ https://user-images.githubusercontent.com/69651552/212470104-533abb08-94bf-417c-
 #### [Redux](redux_burger_builder)
 #### [Redux Saga](redux_saga_burger_builder)
 
+## Certificate
+
+[Course Certificate](Certificate.pdf)
+
 ## License
 
 Licensed under the [MIT License](LICENSE)

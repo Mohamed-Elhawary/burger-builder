@@ -30,8 +30,7 @@ https://user-images.githubusercontent.com/69651552/212470104-533abb08-94bf-417c-
         ```
         npm build
         ```
-
-    - 5- Once the app server is running visit (localhost:3000) in the browser to view the app and now you can treat with it as shown above in the Demo.
+    - 5- Once the App server is running visit (localhost:3000) in the browser to view the App and now you can treat with it as shown above in the Demo.
     - 6- You can also see a live preview of the app from this Link (https://burgerbuilder14.netlify.app/)
 
 ## Built With

@@ -39,10 +39,6 @@ https://user-images.githubusercontent.com/69651552/212470104-533abb08-94bf-417c-
 * CSS
 * JS
 
-## API'S
-
-* [Firebase](https://firebase.google.com/)
-
 ## Libraries & Packages
 
 * [PropTypes](https://www.npmjs.com/package/prop-types)
@@ -56,6 +52,10 @@ https://user-images.githubusercontent.com/69651552/212470104-533abb08-94bf-417c-
 
 * [React.js](https://reactjs.org/) 
  
+## API
+
+* [Firebase](https://firebase.google.com/)
+
 ## Author
 
 * [Mohamed Elhawary](https://www.linkedin.com/in/mohamed-elhawary14/)  

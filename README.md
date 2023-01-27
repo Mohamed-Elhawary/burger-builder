@@ -4,6 +4,8 @@
 
 Burger Builder is an App that allows you to build your own choice of burger then fill a form of your address details to deliver this burger to you. It depends on the API of Firebase website.
 
+You can view the App from [here](https://burgerbuilder14.netlify.app/)
+
 ![Screenshot](preview.png) 
 
 ## Demo
@@ -31,7 +33,7 @@ https://user-images.githubusercontent.com/69651552/212470104-533abb08-94bf-417c-
         npm build
         ```
     - 5- Once the App server is running visit (localhost:3000) in the browser to view the App and now you can treat with it as shown above in the Demo.
-    - 6- You can also see a live preview of the app from this Link (https://burgerbuilder14.netlify.app/)
+    - 6- You can also see a live preview of the App from this link (https://burgerbuilder14.netlify.app/)
 
 ## Built With
 
@@ -62,13 +64,11 @@ https://user-images.githubusercontent.com/69651552/212470104-533abb08-94bf-417c-
 
 ## Contact me through my social accounts
 
-* Email: mohamed.k.elhawary@gmail.com  
-
-* [Linkedin](https://www.linkedin.com/in/mohamed-elhawary14/)
-
-* [Codepen](https://codepen.io/Mohamed-ElHawary)
-
+* Email: mohamed.k.elhawary@gmail.com
+* [LinkedIn](https://www.linkedin.com/in/mohamed-elhawary14/)
+* [Github](https://github.com/Mohamed-Elhawary)  
 * [Behance](https://www.behance.net/mohamed-elhawary14)
+* [Codepen](https://codepen.io/Mohamed-ElHawary) 
 
 
 ## Notices
@@ -78,6 +78,7 @@ https://user-images.githubusercontent.com/69651552/212470104-533abb08-94bf-417c-
 - You can consider this Repo as a reference and a strong practical & revision to understand the working logic of `react`, `redux`, `react-redux` & middlwares like `redux-thunk` & `redux-saga` and how they interact with a react App. As this Repo contains 4 separate folders for the same project but each project covers one of the following: [react, hooks, redux & redux-saga]
 
 - Repo folders are:-
+
 #### [React](react_burger_builder)    
 #### [React Hooks](hooks_burger_builder)
 #### [Redux](redux_burger_builder)

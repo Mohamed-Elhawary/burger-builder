@@ -70,7 +70,6 @@ https://user-images.githubusercontent.com/69651552/212470104-533abb08-94bf-417c-
 * [Behance](https://www.behance.net/mohamed-elhawary14)
 * [Codepen](https://codepen.io/Mohamed-ElHawary) 
 
-
 ## Notices
 
 - This Repo contains a practical project from Udemy Course [Maxmillian React Course – The Complete Guide (include Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)

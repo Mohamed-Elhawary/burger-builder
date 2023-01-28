@@ -9,6 +9,7 @@ import Orders from './containers/Orders/Orders';
 import Auth from './containers/Auth/Auth'; */
 import Logout from './containers/Auth/Logout/Logout';
 import * as actions from './store/actions/index';
+import Footer from './components/Footer/Footer';
 
 const Checkout = React.lazy(() => {
   return import('./containers/Checkout/Checkout');
@@ -53,7 +54,10 @@ const App = (props) => {
   return (
     <div>
       <Layout>
-        <Suspense fallback={<p>Loading...</p>}>{routes}</Suspense>
+        <Suspense fallback={<p>Loading...</p>}>
+          {routes}
+          <Footer />  
+        </Suspense>
       </Layout>
     </div>
   );

@@ -15,10 +15,15 @@ https://user-images.githubusercontent.com/69651552/212470104-533abb08-94bf-417c-
 ## Instructions, Building & Get Started
 
     - 1- Fork, clone or download this repository to your local machine.
-    - 2- Navigate to the specific App folder you need to test. [e.g: hooks_burger_builder]
-    - 2- Be sure that you install the [Node.js](https://nodejs.org/en/) environment in your machine.
-    - 3- Open your terminal and be sure that you are inside the correct destination of the App, while you must be in the same path of the package.json file.
-    - 4- inside your terminal run these commands:-
+    - 2- Navigate to the specific App folder you need to start with. [e.g: hooks_burger_builder]
+    - 3- Be sure that you install the [Node.js](https://nodejs.org/en/) environment in your machine.
+    - 4- Open your terminal and be sure that you are inside the correct destination of the App, while you must be in the same path of the package.json file.
+    - 5- Create a (.env) file and add the following environment variables into it:
+
+        ```
+        REACT_APP_BASE_URL="Add here the Firebase base URL"
+        ```
+    - 6- Inside your terminal run these commands:-
     
         * to install dependencies.
         ```
@@ -32,8 +37,8 @@ https://user-images.githubusercontent.com/69651552/212470104-533abb08-94bf-417c-
         ```
         npm build
         ```
-    - 5- Once the App server is running visit (localhost:3000) in the browser to view the App and now you can treat with it as shown above in the Demo.
-    - 6- You can also see a live preview of the App from this link (https://burgerbuilder14.netlify.app/)
+    - 7- Once the App server is running visit (localhost:3000) in the browser to view the App and now you can treat with it as shown above in the Demo.
+    - 8- You can also see a live preview of the App from this link (https://burgerbuilder14.netlify.app/)
 
 ## Built With
 

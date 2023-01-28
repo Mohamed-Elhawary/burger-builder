@@ -9,6 +9,7 @@ import Orders from './containers/Orders/Orders';
 import Auth from './containers/Auth/Auth'; */
 import Logout from './containers/Auth/Logout/Logout';
 import * as actions from './store/actions/index';
+import Footer from './components/Footer/Footer';
 
 const lazyLoadCheckout = lazyLoadComponent(() => {
   return import('./containers/Checkout/Checkout');
@@ -53,6 +54,7 @@ class App extends Component {
       <div>
         <Layout>
           {routes}
+          <Footer />
         </Layout>
       </div>
     );

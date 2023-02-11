@@ -54,6 +54,7 @@ https://user-images.githubusercontent.com/69651552/212470104-533abb08-94bf-417c-
 * [React Router Dom](https://www.npmjs.com/package/react-router-dom)
 * [Axios](https://www.npmjs.com/package/axios)
 * [Enzyme](https://www.npmjs.com/package/enzyme)
+* [React Icons](https://react-icons.github.io/react-icons/)
 
 ## Frameworks 
 

@@ -40,7 +40,7 @@ https://user-images.githubusercontent.com/69651552/212470104-533abb08-94bf-417c-
     - 7- Once the App server is running, visit (localhost:3000) in the browser to view the App and now you can treat with it as shown above in the Demo.
     - 8- You can also see a live preview of the App from this link (https://burgerbuilder14.netlify.app/)
 
-## Built With
+## Built with
 
 * HTML
 * CSS
@@ -58,23 +58,11 @@ https://user-images.githubusercontent.com/69651552/212470104-533abb08-94bf-417c-
 
 ## Frameworks 
 
-* [React.js](https://reactjs.org/) 
+* [React](https://reactjs.org/) 
  
 ## API
 
 * [Firebase](https://firebase.google.com/)
-
-## Author
-
-* [Mohamed Elhawary](https://www.linkedin.com/in/mohamed-elhawary14/)  
-
-## Contact me through my social accounts
-
-* Email: mohamed.k.elhawary@gmail.com
-* [LinkedIn](https://www.linkedin.com/in/mohamed-elhawary14/)
-* [Github](https://github.com/Mohamed-Elhawary)  
-* [Behance](https://www.behance.net/mohamed-elhawary14)
-* [Codepen](https://codepen.io/Mohamed-ElHawary) 
 
 ## Notices
 
@@ -92,6 +80,18 @@ https://user-images.githubusercontent.com/69651552/212470104-533abb08-94bf-417c-
 ## Certificate
 
 [Course Certificate](Certificate.pdf)
+
+## Author
+
+* [Mohamed Elhawary](https://www.linkedin.com/in/mohamed-elhawary14/)  
+
+## Contact me through my social accounts
+
+* Email: mohamed.k.elhawary@gmail.com
+* [Linkedin](https://www.linkedin.com/in/mohamed-elhawary14/)
+* [Github](https://github.com/Mohamed-Elhawary)  
+* [Behance](https://www.behance.net/mohamed-elhawary14)
+* [Codepen](https://codepen.io/Mohamed-ElHawary) 
 
 ## License
 
